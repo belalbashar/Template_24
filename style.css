@@ -9,7 +9,7 @@ body{
 }
 .header {
 	background-color: #ddd;
-	/* z-index: 2; */
+        z-index: 2; 
 }
 
 .header-menu{
